@@ -33,12 +33,41 @@ or the property `transition-timing-function`
 ### Different values of `transition-timing-function`
 
 `ease` - specifies a transition effect with a slow start, then fast, then end slowly (this is default)
+
 `linear` - specifies a transition effect with the same speed from start to end
+
 `ease-in` - specifies a transition effect with a slow start
+
 `ease-out` - specifies a transition effect with a slow end
+
 `ease-in-out` - specifies a transition effect with a slow start and end
+
 `cubic-bezier(n,n,n,n)` - lets you define your own values in a cubic-bezier function
 
+### `transition-delay` property
+
+The `transition-delay` property allows you to delay your transition (in seconds)
+
+```css 
+  transition-delay: 2s;
+```
+
+### Shorthand example 
+
+The transition property can be shorthanded like shown below.
+
+```css 
+  transition: height 1s ease-in-out 2s;
+```
+
+Or you can specify each proprety.
+
+```css 
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  transition-delay: 2s;
+```
 
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
