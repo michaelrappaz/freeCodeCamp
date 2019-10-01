@@ -242,6 +242,14 @@ https://books.goalkicker.com/OracleDatabaseBook/
 - [Amazon](https://www.amazon.com/Mastering-Linux-Scripting-Andrew-Mallett/dp/1784396974/)
 - ISBN-13: 978-1784396978
 
+*The New CSS Layout by Rachel Andrew*
+- [Amazon](https://www.amazon.com/New-CSS-Layout-Rachel-Andrew/dp/1937557685)
+- ISBN: 978-1-937557-68-3
+
+*Git for Humans by David Demaree*
+- [Amazon](https://www.amazon.com/Git-Humans-David-Demaree/dp/1937557383)
+- ISBN: 978-1-937557-38-6
+
 This list was compiled from multiple suggestion threads on Reddit and Stackoverflow. 
 
 Please feel free to add more that you have found useful!
