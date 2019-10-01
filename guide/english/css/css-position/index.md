@@ -3,13 +3,26 @@ title: CSS Position
 ---
 ## CSS Position
 
-The position property specifies the type of positioning method used for an element. It has 5 keyword values:
+The position property specifies the type of positioning method used for an element. It has 7 values:
 
+The element will appear in order, just like in your document. //Default value
 ```css
-.static         { position: static; } // default value
+.static         { position: static; }
+```
+The element will be positioned relative to it's current position.
+```
 .relative       { position: relative; }
+```
+The element will be positioned based on the scroll of the user.
+```
 .sticky         { position: sticky; }
+```
+The element will be positioned and fixed to the browser window.
+```
 .fixed          { position: fixed; }
+```
+The element will be positioned based on it's first position.
+```
 .absolute       { position: absolute; }
 ```
 
